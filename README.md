@@ -7,6 +7,10 @@
 - AAAI
 - ICLR
 - RSS
+- ICAPS
+- IROS
+- ICML
+- NIPS
 ### 2016
 - NIPS 2016, Barcelona, Spain
  - [Workshop: Deep Reinforcement Learning](https://sites.google.com/site/deeprlnips2016/)
@@ -34,10 +38,9 @@
 - [CMU 10703 Deep Reinforcement Learning and Control, Spring 2017](https://katefvision.github.io/)
 - [MIT 6.S094 Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [UCL Course on Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-
 - [Bay Area Deep Learning Summer School 2016](https://www.bayareadlschool.org/)
 - [stanford CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 - [Berkeley CS188 Introduction to AI](http://ai.berkeley.edu/lecture_videos.html)
-
+- [Hsuan-Tien Lin Machine Learning Foundations](http://www.csie.ntu.edu.tw/~htlin/mooc/)
 
 
