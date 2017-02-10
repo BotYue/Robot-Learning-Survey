@@ -1,6 +1,6 @@
 # Robot Learning Survey
 
-## Workshop and Tutorial
+## Workshops and Tutorials
 ### 2017
 - [CoRL 2017 : Conference on Robot Learning, Mountain View, CA](http://www.robot-learning.org/home)
 - ICRA 2017, Singapore
@@ -28,12 +28,15 @@
 
 ### 2014
 
-## Course
+## Selected Courses
 
 - [Berkeley CS294 Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 - [CMU 10703 Deep Reinforcement Learning and Control, Spring 2017](https://katefvision.github.io/)
 - [MIT 6.S094 Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+- [UCL Course on Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
 - [Bay Area Deep Learning Summer School 2016](https://www.bayareadlschool.org/)
+- [stanford CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 - [Berkeley CS188 Introduction to AI](http://ai.berkeley.edu/lecture_videos.html)
 
 
