@@ -11,6 +11,7 @@
 - IROS
 - ICML
 - NIPS
+
 ### 2016
 - NIPS 2016, Barcelona, Spain
  - [Workshop: Deep Reinforcement Learning](https://sites.google.com/site/deeprlnips2016/)
@@ -28,19 +29,28 @@
 - RSS 2016, Michigan
 
 ### 2015
-- xxx
+- ICRA 2015, Seattle, WA
+ - [Workshop: Sensorimotor Learning](http://sensorimotor-learning.mit.edu/)
+
 
 ### 2014
-
+- IROS 2014, Chicago, IL
+ - [Workshop: Machine Learning in Planning and Control of Robot Motion](https://www.cs.unm.edu/amprg/mlpc14Workshop/proceedings.html)
+ 
 ## Selected Courses
-
+### Core
 - [Berkeley CS294 Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 - [CMU 10703 Deep Reinforcement Learning and Control, Spring 2017](https://katefvision.github.io/)
 - [MIT 6.S094 Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [UCL Course on Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+### Relative
 - [Bay Area Deep Learning Summer School 2016](https://www.bayareadlschool.org/)
 - [stanford CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 - [Berkeley CS188 Introduction to AI](http://ai.berkeley.edu/lecture_videos.html)
 - [Hsuan-Tien Lin Machine Learning Foundations](http://www.csie.ntu.edu.tw/~htlin/mooc/)
 
+## Blogs
+- [Andrej Karpathy blog](http://karpathy.github.io/)
+- [Deep Robotics Blog](https://vmayoral.github.io/)
 
