@@ -27,7 +27,7 @@
  - [Workshop: AI for Long-Term Autonomy](https://sites.google.com/site/icra2016ailta/)
  - [Workshop: Nature versus Nurture in Robotics](http://mobilemanipulation.org/nvsn/)
 - RSS 2016, Michigan
-- [(WAFR)  Workshop on Algorithmic Foundations of Robotics, San Francisco, CA]http://wafr2016.berkeley.edu/index.html
+- [(WAFR)  Workshop on Algorithmic Foundations of Robotics, San Francisco, CA](http://wafr2016.berkeley.edu/index.html)
  - [Session: Robot Learning](http://wafr2016.berkeley.edu/program.html#session9)
 
 ### 2015
