@@ -21,6 +21,7 @@
 - IROS 2016, Daejeon, Korea
  - [Workshop: Human-Robot Collaboration: Towards Co-Adaptive Learning Through Semi-Autonomy and Shared Control](http://www.ausy.tu-darmstadt.de/Workshops/IROS2016)
  - [Workshop: Bio-inspired Social Robot Learning in Home Scenarios](https://www2.informatik.uni-hamburg.de/wtm/SocialRobotsWorkshop2016/index.php)
+ - [Workshop: Cognitive Robotics](http://www.cse.unsw.edu.au/~cogrob/2016/)
 - ICML
 - ICRA 2016, Stockholm, Sweden
  - [Tutorial: Learning from Demonstration](http://lasa.epfl.ch/tutorialICRA16/)
@@ -29,15 +30,26 @@
 - RSS 2016, Michigan
 - [(WAFR)  Workshop on Algorithmic Foundations of Robotics, San Francisco, CA](http://wafr2016.berkeley.edu/index.html)
  - [Session: Robot Learning](http://wafr2016.berkeley.edu/program.html#session9)
+- ICAPS 2016, London
+ - [Workshop: Planning and Robotics](http://icaps16.icaps-conference.org/planrob.html)
 
 ### 2015
 - ICRA 2015, Seattle, WA
  - [Workshop: Sensorimotor Learning](http://sensorimotor-learning.mit.edu/)
+- ISRR 2015, Sestri Levante, Italy 
+ - [Session: Cognitive Robotics and Learning](http://www.isrr-2015.org/index.php/program/technical-program.html#cognitive)
 
 
 ### 2014
 - IROS 2014, Chicago, IL
  - [Workshop: Machine Learning in Planning and Control of Robot Motion](https://www.cs.unm.edu/amprg/mlpc14Workshop/proceedings.html)
+- ERLARS 2014, Berlin, Germany
+ - [Workshop: Evolutionary and Reinforcement Learning for Autonomous Robot Systems](http://www.erlars.org/)
+- [(WAFR)  Workshop on Algorithmic Foundations of Robotics, İstanbul, Turkey](http://robot.cmpe.boun.edu.tr/wafr2014/)
+ 
+### 2013
+- IROS 2013, Tokyo, Japan
+ - [Workshop: AI based Robotics](https://robohow.eu/workshops/ai-based-robotics-iros-2013/program)
  
 ## Selected Courses
 ### Core
