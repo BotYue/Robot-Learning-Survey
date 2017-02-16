@@ -32,6 +32,9 @@
  - [Session: Robot Learning](http://wafr2016.berkeley.edu/program.html#session9)
 - ICAPS 2016, London
  - [Workshop: Planning and Robotics](http://icaps16.icaps-conference.org/planrob.html)
+- Intelligent Vehicles Symposium 2016, Gothenburg, 2016, Sweden
+ - [Workshop: Deep Driving learning representations for intelligent vehicles](http://iv2016.berkeleyvision.org/)
+
 
 ### 2015
 - ICRA 2015, Seattle, WA
@@ -46,6 +49,7 @@
 - ERLARS 2014, Berlin, Germany
  - [Workshop: Evolutionary and Reinforcement Learning for Autonomous Robot Systems](http://www.erlars.org/)
 - [(WAFR)  Workshop on Algorithmic Foundations of Robotics, İstanbul, Turkey](http://robot.cmpe.boun.edu.tr/wafr2014/)
+- [IFAC World Congress 2014, Cape Town, South Africa]
  
 ### 2013
 - IROS 2013, Tokyo, Japan
