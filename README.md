@@ -71,4 +71,4 @@
 ## Blogs
 - [Andrej Karpathy blog](http://karpathy.github.io/)
 - [Deep Robotics Blog](https://vmayoral.github.io/)
-
+- [Jeremyd Jackson Blog](http://www.jeremydjacksonphd.com/category/deep-learning/)
