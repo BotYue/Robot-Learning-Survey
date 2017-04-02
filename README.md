@@ -7,6 +7,7 @@
 - AAAI
 - ICLR
 - RSS
+  [workshop](http://www.roboticsconference.org/program/workshops/) 
 - ICAPS
 - IROS
 - ICML
